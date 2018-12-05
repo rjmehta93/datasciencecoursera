@@ -1,2 +1,2 @@
 # datasciencecoursera
-This repo reflects the coursera's data scientist toolbox final assignment.
+My first ever file in Github and my first step towards Data Scientist. Feeling awesome.
